@@ -5,5 +5,5 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C]()|Easy|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C](./392)|Easy|
 
